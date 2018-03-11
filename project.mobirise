@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 33,
     "versionPublish": "4.6.6",
@@ -3481,7 +3481,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "text_all": "ALL OF OUR VIDEOS ARE HERE",
+            "text_all": "ALL OF OUR PHOTOS ARE HERE",
             "gallery__filtersTextStyle": "display-7",
             "gallery__filtersBtnStyle": "btn-black",
             "gallery": [
